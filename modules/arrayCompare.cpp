@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 bool arraySame(char arr[], int size) {
   //return true if the array contains all the same character,
